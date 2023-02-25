@@ -23,3 +23,6 @@ From the drawn/generated wave set, 4 options can be selected from the drop-dwon 
  First generates and saves an interference pattern. Then, according to the Itteration setting selected in the popup-menu, selects suitable new point sources,
  by assuming the last image to be a topographical image inducing scattering. With the right settings this most often leads to the most stable hexagonal pattern
  after several ten iteration. A randomly occuring hexagonal pattern is proliferated by the simulated feedback-loop.
+
+
+Warning: There are a few deprecated methods in the code, which were expected to add additonal functionality, e.g. simulating moving laser spots for the iteration process. These turned out to be erroreous and where abandoned.
