@@ -26,3 +26,5 @@ From the drawn/generated wave set, 4 options can be selected from the drop-dwon 
 
 
 Warning: There are a few deprecated methods in the code, which were expected to add additonal functionality, e.g. simulating moving laser spots for the iteration process. These turned out to be erroreous and where abandoned.
+
+OpenCV for java needs to be installed. For Eclipse Users, here is a working tutorial: https://www.youtube.com/watch?v=GSbxiFJe5Vo
